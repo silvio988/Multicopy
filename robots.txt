@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://multicopy.netlify.app/sitemap.xml
